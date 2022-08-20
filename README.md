@@ -1,5 +1,8 @@
-# Math-magician
+# React-todo-app
 > Todo list is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete
+
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 ## Getting Started
 
@@ -18,10 +21,11 @@ Step 2: Copy All Project files and run using VSCODE. HTML can be viewed in brows
 ## Built With
 
 - JSX
-- CSS (Cascading Style Sheets)
+- CSS
 - Javascript
 - Webpack
 - React
+- Linters
 
 
 ## Live Demo
@@ -34,7 +38,7 @@ Step 2: Copy All Project files and run using VSCODE. HTML can be viewed in brows
 
 - GitHub: [@eternalgratis](https://github.com/Eternalgratis)
 
-- LinkedIn: [@eternalgratis](https://st1.zoom.us/web_client/4qu8baa/html/externalLinkPage.html?ref=https://www.linkedin.com/in/titilope-apuabi-69a98719b//)
+- LinkedIn: [@eternalgratis](https://www.linkedin.com/in/titilope-apuabi-69a98719b/)
 
 
 ## 🤝 Contributing
